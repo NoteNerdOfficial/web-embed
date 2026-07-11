@@ -1,0 +1,9 @@
+{
+  "id": "web-embed",
+  "name": "Web Embed",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Embed any website as an interactive browser view inside a note.",
+  "author": "notenerd",
+  "isDesktopOnly": true
+}
