@@ -25,3 +25,9 @@ Open Settings → Web Embed to configure:
 - Desktop only — Obsidian's `<webview>` element is not available on mobile.
 - URLs must begin with `https://` or `http://`. An inline error is shown otherwise.
 - Some sites block embedding via `X-Frame-Options` or `Content-Security-Policy`; if a page shows ⚠️ Could not load page, the site is blocking the embed.
+
+## License
+
+---
+
+MIT — see LICENSE.
