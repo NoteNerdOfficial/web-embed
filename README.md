@@ -28,6 +28,4 @@ Open Settings → Web Embed to configure:
 
 ## License
 
----
-
 MIT — see LICENSE.
