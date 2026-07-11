@@ -86,7 +86,6 @@ var WebEmbedPlugin = class extends import_obsidian.Plugin {
 
     const webview = document.createElement("webview");
     webview.setAttribute("src", url);
-    webview.setAttribute("allowpopups", "true");
     webview.style.cssText = `width:100%;height:${height};border:none;`;
 
     const fallback = document.createElement("div");
